@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @volli1704
 - 👀 I’m interested in web programming
-- 🌱 I’m currently learning rails, vue, docker
+- 🌱 I’m currently learning golang
 - vladyslav.oliinyk97@gmail.com
 
 <!---
